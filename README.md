@@ -1,12 +1,13 @@
 # Real-Facts
 This repository hosts the JSON file for the Amazon Alexa Skill "Real Facts"
 
-*You can enable the skill on your alexa device through the amazon store here: https://www.amazon.com/Kenny-Jarnagin-Real-Facts/dp/B074VBMCCH/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1504744980&sr=1-1&keywords=Real+Facts
+You can enable the skill on your alexa device through the amazon store here: https://www.amazon.com/Kenny-Jarnagin-Real-Facts/dp/B074VBMCCH/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1504744980&sr=1-1&keywords=Real+Facts
 
-*This skill is PG-13 (basically, nothing your kids shouldn't hear). The entire idea behind this skill is to give the users a pointless/useless fact (and sometimes one that is actually interesting). This skill will be periodically updated.
+This skill is PG-13 (basically, nothing your kids shouldn't hear). The entire idea behind this skill is to give the users a pointless/useless fact (and sometimes one that is actually interesting). This skill will be periodically updated.
 
 Should you wish to develop an Alexa skill of your own, you'll need an Amazon Web Services (AWS) account and an Amazon Developer account.
 
+*Link for an AWS account:
 *Here is the link to sign up/sign in for an AWS account: aws.amazon.com 
 *Here is the link to sign up/sign in for the Amazon Developer account: developer.amazon.com
 
