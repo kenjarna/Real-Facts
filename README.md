@@ -7,9 +7,10 @@ This skill is PG-13 (basically, nothing your kids shouldn't hear). The entire id
 
 Should you wish to develop an Alexa skill of your own, you'll need an Amazon Web Services (AWS) account and an Amazon Developer account.
 
-*Link for an AWS account:
-*Here is the link to sign up/sign in for an AWS account: aws.amazon.com 
-*Here is the link to sign up/sign in for the Amazon Developer account: developer.amazon.com
+
+Here is the link to sign up/sign in for an AWS account: www.aws.amazon.com 
+
+Here is the link to sign up/sign in for the Amazon Developer account: www.developer.amazon.com
 
 I would also recommend, if you're a student, signing up for Amazon educate (https://aws.amazon.com/education/awseducate/) This is FILLED to the brim with great tools for students to learn and develop practical skills that will go beyond Amazon!
 
